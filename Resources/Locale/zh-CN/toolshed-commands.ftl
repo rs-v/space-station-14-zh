@@ -1,4 +1,4 @@
-﻿command-help-usage =
+command-help-usage =
     Usage:
 command-help-invertible =
     The behaviour of this command can be inverted using the "not" prefix.
@@ -40,7 +40,7 @@ command-description-as =
     Casts the input to the given type.
     Effectively a type hint if you know the type but the interpreter does not.
 command-description-count =
-    Counts the amount of entries in it's input, returning an integer.
+    Counts the amount of entries in its input, returning an integer.
 command-description-map =
     Maps the input over the given block.
 command-description-select =
@@ -131,7 +131,7 @@ command-description-actor-session =
 command-description-physics-parent =
     Returns the parent(s) of the input entities.
 command-description-emplace =
-    Runs the given block over it's inputs, with the input value placed into the variable $value within the block.
+    Runs the given block over its inputs, with the input value placed into the variable $value within the block.
     Additionally breaks out $wx, $wy, $proto, $desc, $name, and $paused for entities.
     Can also have breakout values for other types, consult the documentation for that type for further info.
 command-description-AddCommand =
@@ -194,13 +194,13 @@ command-description-take =
 command-description-spawn-at =
     Spawns an entity at the given coordinates.
 command-description-spawn-on =
-    Spawns an entity on the given entity, at it's coordinates.
+    Spawns an entity on the given entity, at its coordinates.
 command-description-spawn-in =
     Spawns an entity in the given container on the given entity, dropping it at its coordinates if it doesn't fit
 command-description-spawn-attached =
     Spawns an entity attached to the given entity, at (0 0) relative to it.
 command-description-mappos =
-    Returns an entity's coordinates relative to it's current map.
+    Returns an entity's coordinates relative to its current map.
 command-description-pos =
     Returns an entity's coordinates.
 command-description-tp-coords =
@@ -240,13 +240,13 @@ command-description-extremes =
 command-description-sortby =
     Sorts the input least to greatest by the computed key.
 command-description-sortmapby =
-    Sorts the input least to greatest by the computed key, replacing the value with it's computed key afterward.
+    Sorts the input least to greatest by the computed key, replacing the value with its computed key afterward.
 command-description-sort =
     Sorts the input least to greatest.
 command-description-sortdownby =
     Sorts the input greatest to least by the computed key.
 command-description-sortmapdownby =
-    Sorts the input greatest to least by the computed key, replacing the value with it's computed key afterward.
+    Sorts the input greatest to least by the computed key, replacing the value with its computed key afterward.
 command-description-sortdown =
     Sorts the input greatest to least.
 command-description-iota =
