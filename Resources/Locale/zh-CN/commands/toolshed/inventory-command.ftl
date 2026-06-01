@@ -20,3 +20,5 @@ command-description-inventory-ensurespawn =
     若不存在，则在第一个匹配指定标志槽位的输入实体上生成给定原型，并传递槽位中最终物品的UID。
 command-description-inventory-query =
     获取输入实体库存槽位中的实体并传递。
+command-description-inventory-contents =
+    获取输入实体库存槽位中的实体并传递。

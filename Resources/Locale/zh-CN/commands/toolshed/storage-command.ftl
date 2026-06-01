@@ -4,3 +4,5 @@ command-description-storage-insert =
     将输入实体插入给定存储实体。
 command-description-storage-query =
     获取输入实体存储库中的实体并传递。
+command-description-storage-contents =
+    获取输入实体存储库中的实体并传递。
